@@ -1,0 +1,54 @@
+foundid,id,name,party,partyLabel,votes,election,electionLabel,ranking
+,Q6838584,Mickey Brady,Q76382,Sinn Féin,20287,Q30173038,General election 2019,1
+,Q8013107,William Irwin,Q215519,Democratic Unionist Party,11000,Q30173038,General election 2019,2
+Q76130876,,Pete Byrne,Q175443,Social Democratic and Labour Party,9449,Q30173038,General election 2019,3
+Q76130680,,Jackie Coade,Q244927,Alliance Party of Northern Ireland,4211,Q30173038,General election 2019,4
+Q76119832,,Sam Nicholson,Q841045,Ulster Unionist Party,4204,Q30173038,General election 2019,5
+Q76119905,,Martin Kelly,Q61090509,Aontú,1628,Q30173038,General election 2019,6
+,Q6838584,Mickey Brady,Q76382,Sinn Féin,25666,Q25052149,General election 2017,1
+,Q8013107,William Irwin,Q215519,Democratic Unionist Party,13177,Q25052149,General election 2017,2
+,Q6317891,Justin McNulty,Q175443,Social Democratic and Labour Party,9055,Q25052149,General election 2017,3
+Q76119832,,Sam Nicholson,Q841045,Ulster Unionist Party,4425,Q25052149,General election 2017,4
+Q76130680,,Jackie Coade,Q244927,Alliance Party of Northern Ireland,1256,Q25052149,General election 2017,5
+,Q6838584,Mickey Brady,Q76382,Sinn Féin,20488,Q3586935,General election 2015,1
+,Q5220512,Danny Kennedy,Q841045,Ulster Unionist Party,16312,Q3586935,General election 2015,2
+,Q6317891,Justin McNulty,Q175443,Social Democratic and Labour Party,12026,Q3586935,General election 2015,3
+,,Kate Nicholl,Q244927,Alliance Party of Northern Ireland,841,Q3586935,General election 2015,4
+,,Robert Rigby,Q7058484,Northern Ireland Conservatives,210,Q3586935,General election 2015,5
+,Q578710,Conor Murphy,Q76382,Sinn Féin,18857,Q215622,General election 2010,1
+,Q5290471,Dominic Bradley,Q175443,Social Democratic and Labour Party,10526,Q215622,General election 2010,2
+,Q5220512,Danny Kennedy,Q7879942,Ulster Conservatives and Unionists,8558,Q215622,General election 2010,3
+,Q8013107,William Irwin,Q215519,Democratic Unionist Party,5764,Q215622,General election 2010,4
+,Q8021514,Willie Frazer,Q327591,Independent (politician),656,Q215622,General election 2010,5
+,,Andrew Muir,Q244927,Alliance Party of Northern Ireland,545,Q215622,General election 2010,6
+,Q578710,Conor Murphy,Q76382,Sinn Féin,20965,Q428598,General election 2005,1
+,Q5290471,Dominic Bradley,Q175443,Social Democratic and Labour Party,12770,Q428598,General election 2005,2
+,Q10999286,Paul Berry,Q215519,Democratic Unionist Party,9311,Q428598,General election 2005,3
+,Q5220512,Danny Kennedy,Q841045,Ulster Unionist Party,7025,Q428598,General election 2005,4
+,,Gerry Markey,Q327591,Independent (politician),625,Q428598,General election 2005,5
+,Q3476695,Seamus Mallon,Q175443,Social Democratic and Labour Party,20784,Q590740,General election 2001,1
+,Q578710,Conor Murphy,Q76382,Sinn Féin,17209,Q590740,General election 2001,2
+,Q10999286,Paul Berry,Q215519,Democratic Unionist Party,10795,Q590740,General election 2001,3
+,,Sylvia McRoberts,Q841045,Ulster Unionist Party,6833,Q590740,General election 2001,4
+,Q3476695,Seamus Mallon,Q175443,Social Democratic and Labour Party,22904,Q918503,General election 1997,1
+,Q5220512,Danny Kennedy,Q841045,Ulster Unionist Party,18015,Q918503,General election 1997,2
+,Q7143777,Patrick McNamee,Q76382,Sinn Féin,11218,Q918503,General election 1997,3
+,,Peter Whitcroft,Q244927,Alliance Party of Northern Ireland,1015,Q918503,General election 1997,4
+,,David Evans,Q491782,Natural Law Party,123,Q918503,General election 1997,5
+,Q3476695,Seamus Mallon,Q175443,Social Democratic and Labour Party,26073,Q543609,General election 1992,1
+,Q17017215,Jim Speers,Q841045,Ulster Unionist Party,18982,Q543609,General election 1992,2
+Q98270609,,Brendan Curran,Q76382,Sinn Féin,6547,Q543609,General election 1992,3
+,Q5349324,Eileen Bell,Q244927,Alliance Party of Northern Ireland,972,Q543609,General election 1992,4
+,Q3476695,Seamus Mallon,Q175443,Social Democratic and Labour Party,25137,Q918472,General election 1987,1
+,Q333729,Jim Nicholson,Q841045,Ulster Unionist Party,19812,Q918472,General election 1987,2
+,Q6196712,Jim McAllister,Q76382,Sinn Féin,6173,Q918472,General election 1987,3
+,,William Henry Jeffrey,Q244927,Alliance Party of Northern Ireland,664,Q918472,General election 1987,4
+,,Gerard O'Hanlon,Q1860218,Workers' Party of Ireland,482,Q918472,General election 1987,5
+,Q3476695,Seamus Mallon,Q175443,Social Democratic and Labour Party,22694,Q7019154,1986 Newry and Armagh by-election,1
+,Q333729,Jim Nicholson,Q841045,Ulster Unionist Party,20111,Q7019154,1986 Newry and Armagh by-election,2
+,Q6196712,Jim McAllister,Q76382,Sinn Féin,6609,Q7019154,1986 Newry and Armagh by-election,3
+,,Patrick McCusker,Q1860218,Workers' Party of Ireland,515,Q7019154,1986 Newry and Armagh by-election,4
+,Q333729,Jim Nicholson,Q841045,Ulster Unionist Party,18988,Q918466,General election 1983,1
+,Q3476695,Seamus Mallon,Q175443,Social Democratic and Labour Party,17434,Q918466,General election 1983,2
+,Q6196712,Jim McAllister,Q76382,Sinn Féin,9928,Q918466,General election 1983,3
+,,Thomas Moore,Q1860218,Workers' Party of Ireland,1070,Q918466,General election 1983,4
