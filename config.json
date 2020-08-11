@@ -1,0 +1,10 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Newry_and_Armagh_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q751675",
+    "start": "1983",
+    "end": "9999"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "Northern Irish election candidate"
+}
